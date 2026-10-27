@@ -1,0 +1,21 @@
+{
+  "name": "Lazarys",
+  "short_name": "Lazarys",
+  "description": "Lazarys turns today\u2019s most powerful science into tomorrow\u2019s cancer medicines.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#e3e0db",
+  "theme_color": "#e3e0db",
+  "icons": [
+    {
+      "src": "/img/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
